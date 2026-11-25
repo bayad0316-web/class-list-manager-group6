@@ -6,4 +6,4 @@ A Python program that manages a class list using lists and strings.
 | Bayan Aldubayyan| search_name|
 | Lamar Almalki| sort_names|
 | Sarah Alyahya| search_name|
-| Joud Almarshad| search_name|
+| Joud Almarshad| to_upper(names|
