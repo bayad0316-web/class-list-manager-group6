@@ -13,6 +13,7 @@ def search_name(names, name):
   return False
 # Written by: Joud Almarshad (Task 6)
 def to_upper(names):
+        # Create a new list of uppercase names
     upper_names = []
     for name in names:
         upper_names.append(name.upper())
