@@ -27,5 +27,5 @@ def main():
     print("Number of names:", count_names(names))
     print("Uppercase names:", to_upper(names))
     print("Is Lama in the class?", search_name(names, "Lama"))
-    print("Is Lama in the class?", search_name(names, "Lama"))
+    print("Sorted names:", sort_names(names))
 main()
