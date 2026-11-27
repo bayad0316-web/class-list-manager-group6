@@ -5,5 +5,5 @@ A Python program that manages a class list using lists and strings.
 |Shaden Alwallan | count_names |
 | Bayan Aldubayyan| search_name|
 | Lamar Almalki| sort_names|
-| Sarah Alyahya| search_name|
+| Sarah Alyahya| remove_dupplicates|
 | Joud Almarshad| to_upper(names|
