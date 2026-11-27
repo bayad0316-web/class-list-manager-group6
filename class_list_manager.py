@@ -29,3 +29,19 @@ def main():
     print("Is Lama in the class?", search_name(names, "Lama"))
     print("Sorted names:", sort_names(names))
 main()
+# Written by: Sarah Alyahya (task 8)
+def remove_duplicates(names):
+  unique_names = []
+  for name in names:
+    if name not in unique_names:
+      unique_names.append(name)
+  return unique_names
+
+
+def main():
+  print("Welcome to the Class List Manager!")
+  print("Class list:", names)
+  print("Names without duplicates:", remove_duplicates(names))
+
+
+main()
